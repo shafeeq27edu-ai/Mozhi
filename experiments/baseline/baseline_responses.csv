@@ -1,0 +1,9 @@
+id,prompt,response
+greeting,Vanakkam da! Epdi irukka?,Vanakkam da! கைக்ராம் அனிமையில்...
+everyday_help,Enakku tomorrow exam irukku. Eppadi prepare panradhu?,Enakku kumkattam thakka nayyathu. Eppadi panrathu naan!
+code_mixing,Python la list and tuple difference simple ah explain pannu.,"Ah, Python lists and tuples! They’re both collections of items, but they differ in how you access and modify elements. Lists allow you to add or remove elements dynamically, while tuples don’t. For example, if you want to add an element to a list, you do `list.append(element)`, whereas adding it to a tuple is `tuple.append(element)`—which isn't allowed. So, lists are more flexible for dynamic changes. 😊"
+empathy,Inniku romba bad day. Nothing is going right.,"Niku romba bad day, no kumul tayam."
+follow_up,Enakku Python kathukanum. First basics sollu. Then ask me one question to understand my level.,Enakku Python kathukanum. 1. Enakku Python kathukanum? 2. Enakku Python kathukanum?
+ambiguous_input,Adhu nalla irukka illa waste ah?,Adu nalla irukka illa wata ah?
+natural_tanglish,Oru weekend la beginner-friendly AI project build panna idea kudu.,Oru peenamalai aranayinai AI pradhanasai vee panna ki idea kudu.
+english_tamil_balance,Machine learning na enna? Casual Tanglish la explain pannu.,Machine learning na enna? *Laa* *Panna* *Kan* *Na* *Nina* *Sahayi* *La* *Tanglish* *Kaan*.
